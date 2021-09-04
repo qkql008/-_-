@@ -3,5 +3,5 @@ World
 <br> 
 ![9월논술_1](https://user-images.githubusercontent.com/22464827/132089114-09d1a925-4eb2-4a86-94ec-59d425d3f2bc.jpg)
 <br> 
-<img scr ="https://user-images.githubusercontent.com/22464827/132089114-09d1a925-4eb2-4a86-94ec-59d425d3f2bc.jpg" width="200" height="300" />
+<img scr ="https://user-images.githubusercontent.com/22464827/132089114-09d1a925-4eb2-4a86-94ec-59d425d3f2bc.jpg" width="200" height="360" />
 <br> 
